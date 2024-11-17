@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+lightgbm
+jieba
+scipy
+numpy
+torch
+torchvision
+tqdm
+Pillow
+pandas
+wandb
+sentence_transformers
+einops
+h5py
